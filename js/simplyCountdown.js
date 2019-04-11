@@ -154,9 +154,9 @@
             cd = document.querySelectorAll(elt);
 
         targetTmpDate = new Date(
-            parameters.year,
-            parameters.month - 1,
-            parameters.day,
+            2019,
+            4,
+            30,
             parameters.hours,
             parameters.minutes,
             parameters.seconds
