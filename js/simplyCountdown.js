@@ -155,8 +155,8 @@
 
         targetTmpDate = new Date(
             2019,
-            5,
-            30,
+            4,
+            28,
             parameters.hours,
             parameters.minutes,
             parameters.seconds
